@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour :wave:, je suis Nathan</h1>
 <h3 align="center">Apprenti développeur web</h3>
 
-- :telescope: Je viens de finir une formation de développeur web & web mobile
+- :telescope: Je viens de finir une formation de concepteur développeur d'application
 
-- :seedling:Actuellement j'appronfondis mes compétences en : **JavaScript (ReactJS, VueJS, NodeJS) mais aussi PHP**
+- :seedling:Actuellement j'appronfondis mes compétences en : **JavaScript (ReactJS, VueJS, NodeJS) mais aussi C# **
 
 - :mailbox: N'hésitez pas à me contacter via : draks.nathan@gmail.com
 
